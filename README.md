@@ -29,7 +29,7 @@
 
 | 프로젝트 | 소개 | 기술 |
 |---|---|---|
-| [갓생살기 (GodLife)](https://github.com/nae442939-prog/GodLife) | 말로만 하는 다짐을 지키게 돕는 습관 챌린지 서비스. 포인트를 걸고 매일 사진으로 인증 (개인) | Spring Boot · React · MySQL · FastAPI |
+| [갓생살기 (GodLife)](https://github.com/nae442939-prog/GodLife) | 말로만 하는 다짐을 지키게 돕는 습관 챌린지 서비스. 포인트를 걸고 매일 사진으로 인증 (개인) · [배포 사이트](https://52-79-61-201.sslip.io) | Spring Boot · React · MySQL · FastAPI |
 | [FESTLOG](https://github.com/chean0830/festival-project) | 페스티벌·공연 정보와 실시간 오픈채팅을 제공하는 커뮤니티 (3인 팀) · [배포 사이트](https://festlog.duckdns.org/) | Spring Boot · React · WebSocket · Redis · Docker |
 
 <br>
